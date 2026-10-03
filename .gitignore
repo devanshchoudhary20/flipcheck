@@ -1,0 +1,8 @@
+node_modules/
+.env*
+dist/
+__pycache__/
+*.egg-info/
+.venv/
+.anbu/
+CLAUDE.md

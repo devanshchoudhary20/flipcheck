@@ -1,0 +1,19 @@
+{
+  "model": "kev:0.8b",
+  "answers": {
+    "decision": {
+      "type": "choice",
+      "choice": "auto_allow",
+      "confidence": 0.539,
+      "probabilities": {
+        "block": 0.1235,
+        "ask": 0.1839,
+        "auto_allow": 0.6926
+      }
+    }
+  },
+  "usage": {
+    "input_tokens": 121,
+    "output_tokens": 0
+  }
+}

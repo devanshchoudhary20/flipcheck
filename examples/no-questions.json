@@ -1,0 +1,6 @@
+{
+  "state": {
+    "tool_name": "run_shell_command",
+    "arguments": {"query": "rm -rf ./build_cache"}
+  }
+}

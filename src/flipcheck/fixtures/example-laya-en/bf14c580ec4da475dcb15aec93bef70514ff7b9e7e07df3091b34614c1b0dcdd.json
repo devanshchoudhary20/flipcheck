@@ -1,0 +1,19 @@
+{
+  "model": "laya:en",
+  "answers": {
+    "decision": {
+      "type": "choice",
+      "choice": "auto_allow",
+      "confidence": 0.5876,
+      "probabilities": {
+        "block": 0.1323,
+        "ask": 0.1426,
+        "auto_allow": 0.7251
+      }
+    }
+  },
+  "usage": {
+    "input_tokens": 137,
+    "output_tokens": 0
+  }
+}

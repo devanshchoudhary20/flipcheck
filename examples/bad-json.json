@@ -1,0 +1,4 @@
+{
+  "state": {"tool_name": "run_shell_command"},
+  "questions": {
+    "decision": {"type": "choice", "criteria": {"block": "block", "auto_allow": "allow"}}

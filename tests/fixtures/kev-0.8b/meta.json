@@ -1,0 +1,8 @@
+{
+  "flipcheck_version": "0.1.0",
+  "model": "kev:0.8b",
+  "backend": "local",
+  "recorded_at": "2026-09-27",
+  "request_hash": "5ea4dfc47d0c1eef59f8df56add80960e30997125e1667f400943b8e023e727a",
+  "ollaya_version": "0.7.3"
+}

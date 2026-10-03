@@ -1,0 +1,10 @@
+{
+  "state": {
+    "tool_name": "run_shell_command",
+    "arguments": {"query": "rm -rf ./build_cache"},
+    "status": "pending"
+  },
+  "questions": {
+    "decision": {"type": "choice", "criteria": {"block": "block", "auto_allow": "allow"}}
+  }
+}
